@@ -17,8 +17,8 @@
       "source": {
         "source": "git",
         "url": "https://github.com/boosunwoo/session-tracker.git",
-        "ref": "v0.1.0",
-        "sha": "626c7440a42d0bc9c5a832ddeaa88fcfffc6c606"
+        "ref": "v0.2.0",
+        "sha": "f6e91750a4a1bedbb93084b5d618ba78e48ecb0c"
       },
       "homepage": "https://github.com/boosunwoo/session-tracker"
     }
